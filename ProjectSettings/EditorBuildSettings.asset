@@ -12,12 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/LevelOne.unity
     guid: 3456317385c6a7046b6a19247f86d9bc
   - enabled: 1
-    path: Assets/Scenes/PauseMenu.unity
-    guid: fc0a5683251a902449f63e80198ebcc1
-  - enabled: 1
-    path: Assets/Scenes/Lose.unity
-    guid: 90b2a1245e31e5740b64415fbcf43669
+    path: Assets/Scenes/LevelTwo.unity
+    guid: 308555b17f2604047b426667be3b9e5d
   - enabled: 1
     path: Assets/Scenes/Win.unity
     guid: f2f39723e59486342a23b54c24c92b22
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 90b2a1245e31e5740b64415fbcf43669
   m_configObjects: {}
